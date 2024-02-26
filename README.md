@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm David
+
+I'm a PhD student in the [Queloz Group at ETH Zurich](https://queloz-group.ethz.ch/), specialising in the analysis of duotransits, with a general passion for formally reducing interesting physical questions to computationally tractable models.
+Moreover, I have a keen interest in scientific software development and am an advocate for fostering a scientific culture centered on self-consistent, open, reusable, reproducible and testable practices.
+
 
 <!--
 **dgegen/dgegen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
